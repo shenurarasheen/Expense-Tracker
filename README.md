@@ -74,7 +74,7 @@ npx expo start
 
 | Screen 1 | Screen 2 | Screen 3 |
 | :---: | :---: | :---: |
-| ![Screen 1](./screenshots/screen1.png) | ![Screen 2](./screenshots/screen2.png) | ![Screen 3](./screenshots/screen3.png) |
+| ![Screen 1](./images/et-img1.png) | ![Screen 2](./images/et-img2.png) | ![Screen 3](./images/et-img3.png) |
 
 <!-- Add more rows/screenshots below as needed, following the same pattern -->
 
